@@ -1,0 +1,41 @@
+{
+  "snapshot_date": "2026-09-18",
+  "note": "Values copied from the frozen advisor-review materials; this file is a presentation summary, not a new analysis.",
+  "historical_conductivity_rows": 603,
+  "material_compatible_historical_rows": 49,
+  "corrected_scalar_records": 35,
+  "corrected_profiles": 34,
+  "conservative_source_groups": 15,
+  "hydrogel_tasks": {
+    "bulk_numeric_20_30C": {
+      "records": 2,
+      "profiles": 2,
+      "source_groups": 2,
+      "note": "both records are at 30 C; both source groups are singletons"
+    },
+    "bulk_exact_25C": {
+      "records": 0,
+      "profiles": 0,
+      "source_groups": 0
+    },
+    "bulk_text_room_temperature": {
+      "records": 11,
+      "profiles": 11,
+      "source_groups": 4
+    }
+  },
+  "dry_film_candidates": {
+    "near_room_temperature_allowing_approximate_temperature": {
+      "profiles": 35,
+      "source_groups": 11
+    },
+    "near_room_temperature_exact_temperature_only": {
+      "profiles": 26,
+      "source_groups": 10
+    },
+    "note": "dry-film evidence is a different material population and is not a substitute hydrogel training set"
+  },
+  "independent_human_verification": "not_completed",
+  "corrected_starch_model_refit": false,
+  "new_research_run_in_this_snapshot": false
+}
