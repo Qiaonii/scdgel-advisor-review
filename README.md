@@ -6,7 +6,9 @@
 
 **当前定位：不再用同一批现有数据继续追加水凝胶预测模型；现有材料优先整理为数据适用性审计技术报告／学位论文章节候选。独立案例论文是否值得继续，由导师根据案例本身的认识增量判断。**
 
-原定电导率／弹性模量 `R² > 0.85` 未实现；当前修正证据上没有重新拟合模型，独立人工核验尚未完成。本轮不新增模型、扩库、PG098 核查或湿实验。
+原定电导率／弹性模量 `R² > 0.85` 未实现；当前修正证据上没有重新拟合模型，独立人工核验尚未完成。本公开快照不新增模型拟合、文献扩展或湿实验。
+
+**导师快速入口：** [中文 PDF](docs/deliverables/2026-09_applicability_audit/manuscript_cn.pdf) · [中文 Word](docs/deliverables/2026-09_applicability_audit/manuscript_cn.docx) · [英文 PDF](docs/deliverables/2026-09_applicability_audit/manuscript.pdf) · [Supplementary Information PDF](docs/deliverables/2026-09_applicability_audit/supplementary_information.pdf)
 
 ## 研究如何走到这里
 
@@ -77,7 +79,7 @@ flowchart TB
 
 ## 历史工作还保留什么价值
 
-后续审计改变的是部分历史结果的**解释和适用范围**，不是把历史项目整体判为无效。
+后续审计改变的是部分历史结果的**解释和适用范围**，不是把历史项目整体判为无效。以下说明历史成果的当前解释身份，并不表示所有历史产物均随本精简仓分发。
 
 | 历史成果 | 当前如何理解 |
 | --- | --- |

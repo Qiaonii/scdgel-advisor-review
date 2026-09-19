@@ -215,11 +215,11 @@ Independent human verification remains incomplete, and no corrected starch model
 
 ## Data and code availability
 
-The public-review repository contains a reduced, review-oriented subset that supports inspection of public projections and counts, the corrected-data and route-feasibility reports, frozen simulation and external-diagnostic summaries, figure-source records, historical model documentation, and public reproducibility checks. It is not the complete private research environment.
+The public advisor-review repository contains the current English and Chinese manuscripts, Supplementary Information, the frozen review figures, and a compact summary of frozen counts. It is a presentation and review snapshot rather than a complete reproducibility package or research environment.
 
-The public repository does not include the article corpus or original paper PDFs/page images, the complete private fact tables and source-reconstruction material, private cleaning/source mappings, local-path metadata, or historical model binaries. Access to the public repository therefore does not by itself permit full article-level re-verification or full historical model retraining.
+The repository does not include the article corpus or original paper PDFs/page images, the complete private fact tables and source-reconstruction material, private cleaning/source mappings, local-path metadata, or historical model binaries. Source-level re-verification therefore requires independently obtaining the cited papers by DOI.
 
-The manuscript and supplement are review derivatives of existing frozen scientific outputs. The accompanying delivery notes record version correspondence and document checks separately from scientific verification.
+The manuscript and supplement are review derivatives of existing frozen scientific outputs. Public document and consistency checks do not constitute independent human verification of the underlying material, measurement, or source judgments.
 
 ## Author contributions and declarations
 
